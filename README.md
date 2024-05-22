@@ -7,7 +7,7 @@
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-x
+
 ### Hey, I'm Erlang Parasu! 👋
 
 <!-- <picture>
