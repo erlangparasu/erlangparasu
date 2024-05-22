@@ -46,4 +46,4 @@
 
 **Selected Skills**:
 
-[![My Skills](https://skillicons.dev/icons?i=git,ts,jquery,php,laravel,mysql,sqlite,java,kotlin,androidstudio,dart,flutter,rust,actix,vscode,ansible,jenkins,linux,debian,ubuntu,nginx,docker,firebase)]([https://skillicons.dev](https://github.com/erlangparasu/))
+[![My Skills](https://skillicons.dev/icons?&perline=7&i=git,ts,jquery,php,laravel,mysql,sqlite,java,kotlin,androidstudio,dart,flutter,rust,actix,vscode,ansible,jenkins,linux,debian,ubuntu,nginx,docker,firebase)]([https://skillicons.dev](https://github.com/erlangparasu/))
