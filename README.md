@@ -8,7 +8,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-### Hey, I'm Erlang Parasu! 👋
+<!-- ### Hey, I'm Erlang Parasu! 👋 -->
 
 <!-- <picture>
 <source 
@@ -44,6 +44,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=erlangparasu&show_icons=true&count_private=true" />
 </picture>
 
-**Selected Skills**:
+<!-- **Selected Skills**: -->
 
 [![My Skills](https://skillicons.dev/icons?&i=git,js,jquery,ts,php,laravel,mysql,sqlite,java,kotlin,androidstudio,dart,flutter,rust,actix,vscode,ansible,jenkins,linux,debian,ubuntu,nginx,docker,firebase&perline=7)]([https://skillicons.dev](https://github.com/erlangparasu/))
