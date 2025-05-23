@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?&i=leptos,git,js,jquery,ts,php,laravel,mysql,postgres,sqlite,java,kotlin,androidstudio,dart,flutter,rust,actix,go,vscode,neovim,bash,ansible,jenkins,linux,ubuntu,nginx,docker,firebase&perline=7)]([https://skillicons.dev](https://github.com/erlangparasu/))
 
 
-git js jquery ts php laravel mysql postgres sqlite java kotlin androidstudio dart flutter rust actix axum leptos vscode neovim bash ansible jenkins linux ubuntu nginx docker podman k0s firebase
+git javascript jquery typescript php laravel mysql postgres sqlite java kotlin androidstudio dart flutter rust actix axum leptos vscode neovim bash ansible jenkins linux ubuntu nginx docker podman k0s firebase
 
 <!-- - 🔭 I’m currently working on ... -->
 🌱 I’m currently learning Go and Rust
