@@ -2,7 +2,7 @@
 
 <!-- **Selected Skills**: -->
 
-[![My Skills](https://skillicons.dev/icons?&i=git,jquery,ts,deno,php,laravel,mysql,postgres,sqlite,redis,java,kotlin,reactivex,androidstudio,dart,flutter,react,rust,actix,go,bash,py,ansible,jenkins,linux,ubuntu,nginx,docker,firebase&perline=7)]([https://skillicons.dev](https://github.com/erlangparasu/))
+[![My Skills](https://skillicons.dev/icons?&i=git,ts,deno,php,laravel,mysql,postgres,sqlite,redis,java,kotlin,reactivex,androidstudio,dart,flutter,react,rust,actix,go,bash,py,ansible,jenkins,linux,ubuntu,nginx,docker,firebase&perline=7)]([https://skillicons.dev](https://github.com/erlangparasu/))
 
 
 git javascript jquery typescript php laravel mysql postgres sqlite java kotlin androidstudio dart flutter rust actix axum leptos vscode neovim bash ansible pyinfra jenkins linux ubuntu nginx docker podman k0s firebase
